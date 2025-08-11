@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project]([https://lovable.dev/projects/7d817e0e-242a-4dd7-8175-675d9320f14e](https://tech-zen-store.lovable.app/)) and start prompting.
+Simply visit the [Lovable Project]([https://tech-zen-store.lovable.app/)) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
